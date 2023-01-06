@@ -1,76 +1,69 @@
 html,
-body{
-    height: 100%;
-    margin: o;
-    font-size: 16px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 400;
-    line-height: 1.8em;
-    color: #666;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+  height: 100%;
+  margin: o;
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-.img1{
-    background-image: url(img1.jpg);
-    min-height: 100%;
-
+.img1 {
+  background-image: url(img1.jpg);
+  min-height: 100%;
 }
-.img2{  
-     background-image: url(img2.jpg);
-    min-height: 100%;
+.img2 {
+  background-image: url(img2.jpg);
+  min-height: 100%;
 }
-.img3{
-    background-image: url(img3.jpg);
-    min-height: 100%;
-
+.img3 {
+  background-image: url(img3.jpg);
+  min-height: 100%;
 }
 
 .img1,
 .img2,
-.img3{
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+.img3 {
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
-.text1{
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    text-align: center;
-    color: black;
-    font-size: 27px;
-    letter-spacing: 8px;
-    text-transform: uppercase;
-}
-
-span{
-    color: white;
-    background-color: #313534;
-    padding: 30px;
-    border-radius: 10px;
-
+.text1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
 }
 
-.section1{
-    text-align: center;
-    padding: 50px 80px;
-    color: #313534;
+span {
+  color: white;
+  background-color: #313534;
+  padding: 30px;
+  border-radius: 10px;
 }
 
-.section2{
-    text-align: center;
-    padding: 50px 80px;
-    background-color: #313534;
-    color: white;
-
-}.section3{
-    text-align: center;
-    padding: 50px 80px;
-    background-color: #313534;
-    color: white;
+.section1 {
+  text-align: center;
+  padding: 50px 80px;
+  color: #313534;
 }
 
-
-
-
+.section2 {
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #313534;
+  color: white;
+}
+.section3 {
+  text-align: center;
+  padding: 50px 80px;
+  background-color: #313534;
+  color: white;
+}
